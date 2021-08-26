@@ -1,2 +1,2 @@
 # pascal
-This is a pascal interpreter written in c++ that i wrote 
+Pascal interpreter written in python and c
